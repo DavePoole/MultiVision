@@ -1,0 +1,21 @@
+{
+  "name": "MultiVision",
+  "version": "0.0.0",
+  "homepage": "https://github.com/DavePoole/MultiVision",
+  "authors": [
+    "Dave Poole <David.Poole@advancedcomputersoftware.com>"
+  ],
+  "description": "\"Extreme Tech Training\"",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "toastr": "~2.0.3",
+    "angular": "~1.2.24",
+    "angular-resource": "~1.2.24",
+    "angular-route": "~1.2.24"
+  }
+}
